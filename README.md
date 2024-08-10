@@ -1,6 +1,12 @@
-<h1 allign = "center">Hello!</h1>
-<h3>I'm new Java and Python programmer</h3>
-<h3>Facts about me: </h3>
-<h4>I found my nickname in pony game</h4>
-<h4>IDK how to learn it</h4>
-<h5>Still IDK</h5>
+<div><h1>Hello</h1></div>
+<div>
+  <h3>Im a newbie programmer</h3>
+  <details>
+    <summary><h4>Facts about me</h4></summary>
+    <ol>
+      <li>Im using Java and Python</li>
+      <li>I have 2 parrots</li>
+      <li><i>Im still studying</i></li>
+    </ol>
+  </details>
+</div>
