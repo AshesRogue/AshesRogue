@@ -8,5 +8,8 @@
       <li>I have 2 parrots</li>
       <li><i>Im still studying</i></li>
     </ol>
+    <h4>
+      I'm student of APEC Petrotehnic. Suprising.
+    </h4>
   </details>
 </div>
