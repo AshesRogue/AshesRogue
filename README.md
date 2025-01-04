@@ -1,16 +1,23 @@
-## Hi there 👋
+## Idk what to write here
+nvm here's recipe of choco cookies
 
-<!--
-**AshesRogue/AshesRogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Recipe of choco cookies
+___for this recipe u will need:___
+- Unsalted butter
+- Sugar
+- Eggs
+- Vanilla
+- Flour
+- Cocoa powder
+- Baking soda
+- Salt
+- Sparklings!!!
 
-Here are some ideas to get you started:
+___easy peasy steps to cook cookies:___
+1. Cream butter and sugar
+2. Add eggs and vanilla 
+3. Add dry ingredients 
+4. Portion and bake
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### So here you go. You've made delicious choco cookies with this recipe.
